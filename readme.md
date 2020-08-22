@@ -10,8 +10,8 @@ An exercise in centering an image and box models using CSS class rules.
 
 ## Setup/Installation Requirements
 
-* _Step 1: Open the file in a web browser
-* _Step 2: View the page
+* Step 1: Open the file in a web browser
+* Step 2: View the page
 
 ## Known Bugs
 
